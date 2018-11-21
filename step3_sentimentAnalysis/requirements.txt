@@ -1,0 +1,4 @@
+Keras
+gensim
+jieba
+sklearn
